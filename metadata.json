@@ -1,0 +1,5 @@
+{
+  "name": "Linux Desktop Portfolio",
+  "description": "A personal portfolio site styled as a modern Ubuntu/GNOME Linux desktop environment. Features a functional window manager, a terminal with Gemini AI integration, and an interactive portfolio browser.",
+  "requestFramePermissions": []
+}
