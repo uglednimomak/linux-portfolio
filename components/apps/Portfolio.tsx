@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { User, Code2, FolderGit2, Mail, Server, Database, Monitor } from 'lucide-react';
 
 export const PortfolioApp: React.FC = () => {
-  const [activeTab, setActiveTab] = useState<'about' | 'skills' | 'projects' | 'contact'>('skills');
+  const [activeTab, setActiveTab] = useState<'about' | 'skills' | 'projects' | 'contact'>('about');
 
   const renderContent = () => {
     switch (activeTab) {
