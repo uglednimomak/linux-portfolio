@@ -13,7 +13,7 @@ export const PortfolioApp: React.FC = () => {
              <div className="bg-white p-6 rounded shadow-sm border border-gray-200 font-mono text-sm leading-relaxed text-gray-700">
                 <p className="mb-4">{`> Hello World!`}</p>
                 <p className="mb-4">
-                  I am a passionate Full Stack Engineer specializing in modern web technologies.
+                  I am Alma a passionate Full Stack Engineer specializing in modern web technologies.
                   Just like this desktop simulation, I enjoy building complex, interactive interfaces
                   that delight users.
                 </p>
